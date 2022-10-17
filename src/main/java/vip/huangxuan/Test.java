@@ -9,5 +9,6 @@ public class Test {
         System.out.println("helloWorld5");
         System.out.println("helloWorld6");
         System.out.println("helloWorld6push");
+        System.out.println("helloWorld6pull");
     }
 }
