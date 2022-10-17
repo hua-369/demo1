@@ -8,5 +8,6 @@ public class Test {
         System.out.println("helloWorld4");
         System.out.println("helloWorld5");
         System.out.println("helloWorld6");
+        System.out.println("helloWorld6push");
     }
 }
